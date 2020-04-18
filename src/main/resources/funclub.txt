@@ -1,0 +1,10 @@
+Falhi;Chibani;baraka;66;raja
+Falhy;Ahmed;AinChok;66,wydad
+Hilali;Abdellatif;AinChok;63;wydad
+Falhy;Jilali;Paris;59;raja
+Falhy;Noreddine;AinChok;63;wydad
+Falhi;Chibani;baraka;66;raja
+Falhi;abdo;baraka;34;wydad
+Falhi;hamza;baraka;30;raja
+Falhi;ayoub;baraka;27;raja
+Falhi;mehdi;baraka;27;raja
